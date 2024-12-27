@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LifeX5
 - 👀 I’m interested in cosmos and computers.
-- 🌱 I’m currently learning nothing.
+- 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on cyber,hacking,develop,etc.
 - 📫 How to reach me just message me.
 
